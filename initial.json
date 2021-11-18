@@ -2,33 +2,33 @@
   "initialObservations": [
     {
       "id": 1,
-      "abbreviation": "Allergies"
+      "abbreviation": "Allergies",
       "description": "Presenting complaint"
     },
     {
       "id": 2,
-      "abbreviation": "PMHx"
+      "abbreviation": "PMHx",
       "description": "Past medical history"
     },
     {
       "id": 1,
-      "abbreviation": "DHx"
+      "abbreviation": "DHx",
       "description": "Drug history"
     },
     {
       "id": 1,
-      "abbreviation": "SHx"
+      "abbreviation": "SHx",
       "description": "Social history"
     },
 
     {
       "id": 1,
-      "abbreviation": "FHx"
+      "abbreviation": "FHx",
       "description": "Family history"
     },
     {
       "id": 1,
-      "abbreviation": "HxPC"
+      "abbreviation": "HxPC",
       "description": "Hostory of presenting complaint"
     }
   ]
