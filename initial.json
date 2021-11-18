@@ -11,23 +11,23 @@
       "description": "Past medical history"
     },
     {
-      "id": 1,
+      "id": 3,
       "abbreviation": "DHx",
       "description": "Drug history"
     },
     {
-      "id": 1,
+      "id": 4,
       "abbreviation": "SHx",
       "description": "Social history"
     },
 
     {
-      "id": 1,
+      "id": 5,
       "abbreviation": "FHx",
       "description": "Family history"
     },
     {
-      "id": 1,
+      "id": 6,
       "abbreviation": "HxPC",
       "description": "Hostory of presenting complaint"
     }
