@@ -19,7 +19,7 @@
 				"Are they coughing anything up?",
 				"If so, what colour?",
 				"Does the Chest equally rise and fall?"
-			],
+			]
 		},{
 			"title": "Cardiovascular System",
 			"obs": [
@@ -36,7 +36,7 @@
 				"Are the hands warm or cold?",
 				"Are they sweaty or clammy?",
 				"Are they having palpatations?"			
-			],
+			]
 		},{
 			"title": "Chest Pain",
 			"obs": [
@@ -54,7 +54,7 @@
 				"Do they look pale, grey and/or clammy?",
 				"Have they had this pain before?",
 				"Any PMHx of heart trouble?"
-			],
+			]
 		},{
 			"title": "Central Nervous System",
 			"obs": [
@@ -80,7 +80,7 @@
 				"Do they have any difficulties with speech?",
 				"Do they have any facial weakness?",
 				"Do they have any facial numbness?"
-			],
+			]
 		},{
 			"title": "Abdominal/Gastro Intestinal",
 			"obs": [
@@ -101,7 +101,7 @@
 				"Are they suffering from diahorrea?",
 				"How is their appetite?",
 				"How is fluid intake?"
-			],
+			]
 		},{
 			"title": "Musculoskeletal",
 			"obs": [
