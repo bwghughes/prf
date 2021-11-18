@@ -3,7 +3,7 @@
     {
       "id": 1,
       "abbreviation": "Allergies",
-      "description": "Presenting complaint"
+      "description": "Does the patient have any allergies?"
     },
     {
       "id": 2,
