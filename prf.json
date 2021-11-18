@@ -19,7 +19,8 @@
 				"Are they coughing anything up?",
 				"If so, what colour?",
 				"Does the Chest equally rise and fall?"
-			], 
+			],
+		},{
 			"title": "Cardiovascular System",
 			"obs": [
 				"What is the skin colour?",
@@ -36,6 +37,7 @@
 				"Are they sweaty or clammy?",
 				"Are they having palpatations?"			
 			],
+		},{
 			"title": "Chest Pain",
 			"obs": [
 				"Where is the pain?",
@@ -53,6 +55,7 @@
 				"Have they had this pain before?",
 				"Any PMHx of heart trouble?"
 			],
+		},{
 			"title": "Central Nervous System",
 			"obs": [
 				"Stroke? BEFAST (Balance, Eyes, Face, Arm, Speech, Time) - Positive or negative?",
@@ -78,6 +81,7 @@
 				"Do they have any facial weakness?",
 				"Do they have any facial numbness?"
 			],
+		},{
 			"title": "Abdominal/Gastro Intestinal",
 			"obs": [
 				"Do they have abdominal pain?",
@@ -98,6 +102,7 @@
 				"How is their appetite?",
 				"How is fluid intake?"
 			],
+		},{
 			"title": "Musculoskeletal",
 			"obs": [
 				"Any recent falls, injuries or trauma?",
