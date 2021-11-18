@@ -3,12 +3,14 @@
     {
       "id": 1,
       "abbreviation": "Allergies",
-      "description": "Does the patient have any allergies?"
+      "description": "Does the patient have any allergies?",
+      "details": "Has the patient ever suffered from any allergies - medicine or otherwise?"
     },
     {
       "id": 2,
       "abbreviation": "PC",
-      "description": "What is the presenting complaint?"
+      "description": "What is the presenting complaint?",
+      "details": "What is the reason the ambulance has been called?"
     },
     {
       "id": 3,
