@@ -4,7 +4,7 @@
       "id": 1,
       "abbreviation": "Allergies",
       "description": "Does the patient have any allergies?",
-      "details": "Has the patient ever suffered from any allergies - medicine or otherwise?"
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
     {
       "id": 2,
@@ -15,28 +15,33 @@
     {
       "id": 3,
       "abbreviation": "PMHx",
-      "description": "Past medical history"
+      "description": "Past medical history",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
     {
       "id": 4,
       "abbreviation": "DHx",
-      "description": "Drug history"
+      "description": "Drug history",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
     {
       "id": 5,
       "abbreviation": "SHx",
-      "description": "Social history"
+      "description": "Social history",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
 
     {
       "id": 6,
       "abbreviation": "FHx",
-      "description": "Family history"
+      "description": "Family history",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
     {
       "id": 7,
       "abbreviation": "HxPC",
-      "description": "Hostory of presenting complaint"
+      "description": "Hostory of presenting complaint",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     }
   ]
 }   
