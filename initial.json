@@ -10,28 +10,28 @@
     {
       "id": 2,
       "abbreviation": "PC",
-      "icon": "allergens",
+      "icon": "cross.case",
       "description": "What is the presenting complaint?",
       "details": "What is the reason the ambulance has been called?"
     },
     {
       "id": 3,
       "abbreviation": "PMHx",
-      "icon": "allergens",
+      "icon": "clock",
       "description": "Past medical history",
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
     {
       "id": 4,
       "abbreviation": "DHx",
-      "icon": "allergens",
+      "icon": "pills",
       "description": "Drug history",
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
     {
       "id": 5,
       "abbreviation": "SHx",
-      "icon": "allergens",
+      "icon": "person.and.arrow.left.and.arrow.right",
       "description": "Social history",
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
@@ -39,7 +39,7 @@
     {
       "id": 6,
       "abbreviation": "FHx",
-      "icon": "allergens",
+      "icon": "person.3",
       "description": "Family history",
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam magna massa, porttitor vehicula mi eget, euismod semper mi. Donec eget quam vulputate, volutpat arcu id, eleifend arcu. Suspendisse orci justo, luctus nec tempor et, sollicitudin non magna. Nulla mattis vehicula libero quis ornare. Cras ligula quam, vestibulum at mi non, dignissim ultrices diam. Integer laoreet, sapien vitae rutrum mollis, ex felis dignissim eros, vitae auctor metus erat facilisis purus. Donec vel ante non augue tincidunt vulputate vitae et odio. Nam eleifend tortor consectetur elit porttitor maximus. Donec tempus tristique malesuada."
     },
