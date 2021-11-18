@@ -7,27 +7,32 @@
     },
     {
       "id": 2,
+      "abbreviation": "PC",
+      "description": "What is the presenting complaint?"
+    },
+    {
+      "id": 3,
       "abbreviation": "PMHx",
       "description": "Past medical history"
     },
     {
-      "id": 3,
+      "id": 4,
       "abbreviation": "DHx",
       "description": "Drug history"
     },
     {
-      "id": 4,
+      "id": 5,
       "abbreviation": "SHx",
       "description": "Social history"
     },
 
     {
-      "id": 5,
+      "id": 6,
       "abbreviation": "FHx",
       "description": "Family history"
     },
     {
-      "id": 6,
+      "id": 7,
       "abbreviation": "HxPC",
       "description": "Hostory of presenting complaint"
     }
