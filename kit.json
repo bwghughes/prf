@@ -1,0 +1,77 @@
+{
+    "kitlist":[
+        {
+            "sectionName": "Communications", 
+            "kit":[
+                {"name": "Mobile Phone or Terafix", "quantity": 1}
+            ]
+        },
+        {
+            "sectionName": "Protection", 
+            "kit":[
+                {"name": "Kit bag", "quantity": 1},
+                {"name": "Safety specs", "quantity": 1},
+                {"name": "Clinell wipes", "quantity": 1},
+                {"name": "Surgical mask (box)", "quantity": 2},
+                {"name": "Gloves (box)", "quantity": 1},
+                {"name": "Sleeve protectors", "quantity": 4},
+                {"name": "Aprons", "quantity": 2},
+                {"name": "Clinical waste bag & tie", "quantity": 2},
+                {"name": "Hand sanitizer", "quantity": 1}
+            ]
+        },
+        {
+            "sectionName": "BLS/AED", 
+            "kit":[
+                {"name": "Preparation razors", "quantity": 2},
+                {"name": "Handheld Suction Kit", "quantity": 1},
+                {"name": "Disposable B V M Resuscitator, Paed", "quantity": 1},
+                {"name": "Disposable B V M Resuscitator, Adult", "quantity": 1},
+                {"name": "No 2/3/4 OP Airway (2 of Each)", "quantity": 6},
+                {"name": "Sleeve protectors", "quantity": 1},
+                {"name": "Paediatric OPAs - 1 of each **", "quantity": 2},
+                {"name": "Automated External Defibrillator with addition of Pediatric Pads", "quantity": 1},
+                {"name": "Hand sanitizer", "quantity": 1}
+            ]
+        },
+        {
+            "sectionName": "O2 Therapy", 
+            "kit":[
+                {"name": "Oxygen Cylinder", "quantity": 1},
+                {"name": "Non-rebreather mask, Adult", "quantity": 1},
+                {"name": "28% Ventura Mask (optional)", "quantity": 1},
+                {"name": "Non-rebreather mask, Child", "quantity": 1},
+                {"name": "Nebuliser Masks Adult **", "quantity": 6}
+            ]
+        },
+        {
+            "sectionName": "Observations", 
+            "kit":[
+                {"name": "BM Kits, swabs & lancets", "quantity": 1},
+                {"name": "Automated bracial BP", "quantity": 1},
+                {"name": "Tympanic Thermometer & covers", "quantity": 1},
+                {"name": "Pulse Oximeter", "quantity": 1},
+                {"name": "Peak Flow Meter and tubes **", "quantity": 6}
+            ]
+        },
+        {
+            "sectionName": "Trauma", 
+            "kit":[
+                {"name": "Trauma Shears", "quantity": 1},
+                {"name": "Medium sterile dressing", "quantity": 1},
+                {"name": "Roll of adhesive porous tape", "quantity": 1},
+                {"name": "Bandages - 2xL & 2xSM", "quantity": 1},
+                {"name": "Roll of cling film", "quantity": 1},
+                {"name": "Thermal blanket", "quantity": 1},
+                {"name": "Irripods", "quantity": 2}
+            ]
+        },
+        {
+            "sectionName": "Paperwork", 
+            "kit":[
+                {"name": "PRF Sheets", "quantity": 1}
+            ]
+        }
+    ]
+}
+       
