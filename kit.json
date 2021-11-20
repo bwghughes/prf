@@ -1,12 +1,14 @@
 {
     "kitlist":[
         {
+            "id": 1,
             "sectionName": "Communications", 
             "kit":[
                 {"name": "Mobile Phone or Terafix", "quantity": 1}
             ]
         },
         {
+            "id": 2,
             "sectionName": "Protection", 
             "kit":[
                 {"name": "Kit bag", "quantity": 1},
@@ -21,6 +23,7 @@
             ]
         },
         {
+            "id": 3,
             "sectionName": "BLS/AED", 
             "kit":[
                 {"name": "Preparation razors", "quantity": 2},
@@ -35,6 +38,7 @@
             ]
         },
         {
+            "id": 4,
             "sectionName": "O2 Therapy", 
             "kit":[
                 {"name": "Oxygen Cylinder", "quantity": 1},
@@ -45,6 +49,7 @@
             ]
         },
         {
+            "id": 5,
             "sectionName": "Observations", 
             "kit":[
                 {"name": "BM Kits, swabs & lancets", "quantity": 1},
@@ -55,6 +60,7 @@
             ]
         },
         {
+            "id": 6,
             "sectionName": "Trauma", 
             "kit":[
                 {"name": "Trauma Shears", "quantity": 1},
@@ -67,6 +73,7 @@
             ]
         },
         {
+            "id": 7,
             "sectionName": "Paperwork", 
             "kit":[
                 {"name": "PRF Sheets", "quantity": 1}
