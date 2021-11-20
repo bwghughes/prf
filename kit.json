@@ -4,7 +4,7 @@
             "id": 1,
             "sectionName": "Communications", 
             "kit":[
-                {"name": "Mobile Phone or Terafix", "quantity": 1}
+                {"id": 37, "name": "Mobile Phone or Terafix", "quantity": 1}
             ]
         },
         {
